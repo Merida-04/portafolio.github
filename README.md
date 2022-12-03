@@ -1,4 +1,4 @@
-# portafolio.github
+# portafolio.github.io
 Bienvenido a mi página web, lugar donde muestro un poco de los desarrolllos en los que estoy trabajando.
 ![sobre mi](https://user-images.githubusercontent.com/119751148/205453636-9c160383-a159-4d4a-a359-67984fa971e4.jpg)
 ![experiencia](https://user-images.githubusercontent.com/119751148/205453650-06d0e539-9723-4dc4-a019-7b0b7fcd7a2f.jpg)
